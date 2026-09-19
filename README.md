@@ -32,6 +32,10 @@ What makes me stand out is the combination of **analytical thinking and creativi
 
 ## 🏆 Certificates & Experience
 
+- 🏢 **Project Controller — Huawei** · 2026–Present
+  > Project control in action: gathering data, tracking performance, and steering projects to finish on time and within budget.
+- 🇬🇧 **Online English Tutor** · 2024–2025
+  > Structured one-on-one online lessons tailored to each student's level, focusing on speaking, listening, and comprehension.
 - 🏛️ **Internship Certificate** — Ministry of Cambodia (Data Security) · 2025–2026
 - 📈 **Data Analyst Certificate** — Statistics, data cleaning, and visualization · 2024–Present
 - ☁️ **AWS Academy Machine Learning Foundations** — 20-hour graduate program · 2025
